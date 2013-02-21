@@ -4,5 +4,10 @@
     <string name="app_name">PeloteDeLaine</string>
     <string name="hello_world">Hello world!</string>
     <string name="menu_settings">Settings</string>
+    <string name="menu_picture">take a picture</string>
+    <string name="menu_play">Play</string>
+    <string name="menu_quit">Quit</string>
+    <string name="title_activity_picture">PictureActivity</string>
+    <string name="desc">photo prise</string>
 
 </resources>
